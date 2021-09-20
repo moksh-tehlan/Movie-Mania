@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#2C3848</color>
+    <color name="actionBarColor">#283646</color>
+    <color name="secondaryColor">#222C39</color>
+    <color name="navBackgroundColor">#18191B</color>
+    <color name="selectedNavButtonColor">#37A9E2</color>
+    <color name="ulselectedNavButtonColor">#A8A8A8</color>
+    <color name="movieCardBgColor">#3A4654</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
