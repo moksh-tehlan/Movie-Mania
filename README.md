@@ -11,7 +11,7 @@ Movie Mania - The simplest way to find Movies & Shows you'll love.
 
 [Movie Mania Apk](https://drive.google.com/file/d/1v-CQx-sMUzt-W_x4fI0yDnJZLm144nsW/view?usp=sharing)
   
-## 🔗 Social Links
+## Social Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moksh-tehlan-49600b220/)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MokshTehlan)
